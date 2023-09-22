@@ -12,7 +12,7 @@ rightWristY = 0;
 leftWristX = 0;
 leftWristY = 0;
 
-score_riht_wrist=0;
+score_right_wrist=0;
 score_left_wrist= 0;
 function setup() {
 	canvas =  createCanvas(600, 500);
